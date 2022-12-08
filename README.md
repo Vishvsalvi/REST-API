@@ -18,5 +18,5 @@ Used to delete data from the server.
 ## Endpoints
 The API has the following endpoints:
 
-### /subscriber: 
+### /subscribers/:id 
 Used to manipulate subscriber data.
